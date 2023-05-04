@@ -46,6 +46,9 @@ export default {
         },
       },
     },
+    rollupOptions: {
+      external: ['vue-router']
+    }
   },
 
   generate: {
