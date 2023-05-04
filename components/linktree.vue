@@ -45,7 +45,7 @@ export default {
         {
           title: 'Portal 🌐',
           description: 'Where the exciting part begins :>',
-          url: 'https://portal.kokocoder.com'
+          url: 'https://portal.kokocoder.com/'
         }
       ]
     }
