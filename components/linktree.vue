@@ -25,27 +25,27 @@ export default {
       title: 'KOKOCODER',
       subtitle: 'Hello, nice to see you! 👋',
       description: 'Connect with us through our social medias',
-      footer: '@kokocoder 2023',
+      footer: '© 2023 Kokocoder Group',
       Links: [
         {
-          title: 'KC WEBSITE',
+          title: 'PUBLIC RELATION WHATSAPP 💬',
+          description: 'For further information and registration.',
+          url: 'https://wa.me/6287785857166'
+        },
+        {
+          title: 'KC INSTAGRAM 📸',
+          description: 'Check out our activities and updates!',
+          url: 'https://www.instagram.com/kokocoder'
+        },
+        {
+          title: 'KC WEBSITE 💻',
           description: 'Check out to know more about us!',
           url: 'https://kokocoder.com/'
         },
         {
-          title: 'KC INSTAGRAM',
-          description: 'This is my second link.',
-          url: 'https://www.instagram.com/kokocoder'
-        },
-        {
-          title: 'PUBLIC RELATION WHATSAPP',
-          description: 'This is my third link.',
+          title: 'Portal 🌐',
+          description: 'Where the exciting part begins :>',
           url: 'https://www.portal.kokocoder.com'
-        },
-        {
-          title: 'KC INSTAGRAM',
-          description: 'This is my second link.',
-          url: 'https://www.instagram.com/kokocoder'
         }
       ]
     }
